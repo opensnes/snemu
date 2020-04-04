@@ -1,0 +1,2 @@
+# snemu
+Super Nintendo emulator
